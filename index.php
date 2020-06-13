@@ -4,7 +4,7 @@ Welcome to my Cloud page
 <pre>
 <?php>
 
-print `ifconfig`
+print `ifconfig`;
 
 ?>
 </pre>
